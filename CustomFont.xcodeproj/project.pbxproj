@@ -21,6 +21,26 @@
 		D95BF795190DEB820012D706 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D95BF777190DEB820012D706 /* UIKit.framework */; };
 		D95BF79D190DEB820012D706 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D95BF79B190DEB820012D706 /* InfoPlist.strings */; };
 		D95BF79F190DEB820012D706 /* CustomFontTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D95BF79E190DEB820012D706 /* CustomFontTests.m */; };
+		D95BF7AA190DEBFB0012D706 /* CustomFontView.m in Sources */ = {isa = PBXBuildFile; fileRef = D95BF7A9190DEBFB0012D706 /* CustomFontView.m */; };
+		D95BF7C6190DF54E0012D706 /* FontView.m in Sources */ = {isa = PBXBuildFile; fileRef = D95BF7C5190DF54E0012D706 /* FontView.m */; };
+		D95BF7C9190DFE220012D706 /* icon_download_tips@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D95BF7C7190DFE220012D706 /* icon_download_tips@2x.png */; };
+		D95BF7CA190DFE220012D706 /* icon_download_tips.png in Resources */ = {isa = PBXBuildFile; fileRef = D95BF7C8190DFE220012D706 /* icon_download_tips.png */; };
+		D95BF7DC190E04970012D706 /* text_font_thumbnail1.png in Resources */ = {isa = PBXBuildFile; fileRef = D95BF7CC190E04970012D706 /* text_font_thumbnail1.png */; };
+		D95BF7DD190E04970012D706 /* text_font_thumbnail1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D95BF7CD190E04970012D706 /* text_font_thumbnail1@2x.png */; };
+		D95BF7DE190E04970012D706 /* text_font_thumbnail2.png in Resources */ = {isa = PBXBuildFile; fileRef = D95BF7CE190E04970012D706 /* text_font_thumbnail2.png */; };
+		D95BF7DF190E04970012D706 /* text_font_thumbnail2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D95BF7CF190E04970012D706 /* text_font_thumbnail2@2x.png */; };
+		D95BF7E0190E04970012D706 /* text_font_thumbnail3.png in Resources */ = {isa = PBXBuildFile; fileRef = D95BF7D0190E04970012D706 /* text_font_thumbnail3.png */; };
+		D95BF7E1190E04970012D706 /* text_font_thumbnail3@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D95BF7D1190E04970012D706 /* text_font_thumbnail3@2x.png */; };
+		D95BF7E2190E04970012D706 /* text_font_thumbnail4.png in Resources */ = {isa = PBXBuildFile; fileRef = D95BF7D2190E04970012D706 /* text_font_thumbnail4.png */; };
+		D95BF7E3190E04970012D706 /* text_font_thumbnail4@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D95BF7D3190E04970012D706 /* text_font_thumbnail4@2x.png */; };
+		D95BF7E4190E04970012D706 /* text_font_thumbnail5.png in Resources */ = {isa = PBXBuildFile; fileRef = D95BF7D4190E04970012D706 /* text_font_thumbnail5.png */; };
+		D95BF7E5190E04970012D706 /* text_font_thumbnail5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D95BF7D5190E04970012D706 /* text_font_thumbnail5@2x.png */; };
+		D95BF7E6190E04970012D706 /* text_font_thumbnail6.png in Resources */ = {isa = PBXBuildFile; fileRef = D95BF7D6190E04970012D706 /* text_font_thumbnail6.png */; };
+		D95BF7E7190E04970012D706 /* text_font_thumbnail6@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D95BF7D7190E04970012D706 /* text_font_thumbnail6@2x.png */; };
+		D95BF7E8190E04970012D706 /* text_font_thumbnail7.png in Resources */ = {isa = PBXBuildFile; fileRef = D95BF7D8190E04970012D706 /* text_font_thumbnail7.png */; };
+		D95BF7E9190E04970012D706 /* text_font_thumbnail7@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D95BF7D9190E04970012D706 /* text_font_thumbnail7@2x.png */; };
+		D95BF7EA190E04970012D706 /* text_font_thumbnail8.png in Resources */ = {isa = PBXBuildFile; fileRef = D95BF7DA190E04970012D706 /* text_font_thumbnail8.png */; };
+		D95BF7EB190E04970012D706 /* text_font_thumbnail8@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D95BF7DB190E04970012D706 /* text_font_thumbnail8@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +73,28 @@
 		D95BF79A190DEB820012D706 /* CustomFontTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CustomFontTests-Info.plist"; sourceTree = "<group>"; };
 		D95BF79C190DEB820012D706 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D95BF79E190DEB820012D706 /* CustomFontTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomFontTests.m; sourceTree = "<group>"; };
+		D95BF7A8190DEBFB0012D706 /* CustomFontView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomFontView.h; sourceTree = "<group>"; };
+		D95BF7A9190DEBFB0012D706 /* CustomFontView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomFontView.m; sourceTree = "<group>"; };
+		D95BF7C4190DF54E0012D706 /* FontView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FontView.h; sourceTree = "<group>"; };
+		D95BF7C5190DF54E0012D706 /* FontView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FontView.m; sourceTree = "<group>"; };
+		D95BF7C7190DFE220012D706 /* icon_download_tips@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_download_tips@2x.png"; sourceTree = "<group>"; };
+		D95BF7C8190DFE220012D706 /* icon_download_tips.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_download_tips.png; sourceTree = "<group>"; };
+		D95BF7CC190E04970012D706 /* text_font_thumbnail1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = text_font_thumbnail1.png; sourceTree = "<group>"; };
+		D95BF7CD190E04970012D706 /* text_font_thumbnail1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "text_font_thumbnail1@2x.png"; sourceTree = "<group>"; };
+		D95BF7CE190E04970012D706 /* text_font_thumbnail2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = text_font_thumbnail2.png; sourceTree = "<group>"; };
+		D95BF7CF190E04970012D706 /* text_font_thumbnail2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "text_font_thumbnail2@2x.png"; sourceTree = "<group>"; };
+		D95BF7D0190E04970012D706 /* text_font_thumbnail3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = text_font_thumbnail3.png; sourceTree = "<group>"; };
+		D95BF7D1190E04970012D706 /* text_font_thumbnail3@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "text_font_thumbnail3@2x.png"; sourceTree = "<group>"; };
+		D95BF7D2190E04970012D706 /* text_font_thumbnail4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = text_font_thumbnail4.png; sourceTree = "<group>"; };
+		D95BF7D3190E04970012D706 /* text_font_thumbnail4@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "text_font_thumbnail4@2x.png"; sourceTree = "<group>"; };
+		D95BF7D4190E04970012D706 /* text_font_thumbnail5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = text_font_thumbnail5.png; sourceTree = "<group>"; };
+		D95BF7D5190E04970012D706 /* text_font_thumbnail5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "text_font_thumbnail5@2x.png"; sourceTree = "<group>"; };
+		D95BF7D6190E04970012D706 /* text_font_thumbnail6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = text_font_thumbnail6.png; sourceTree = "<group>"; };
+		D95BF7D7190E04970012D706 /* text_font_thumbnail6@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "text_font_thumbnail6@2x.png"; sourceTree = "<group>"; };
+		D95BF7D8190E04970012D706 /* text_font_thumbnail7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = text_font_thumbnail7.png; sourceTree = "<group>"; };
+		D95BF7D9190E04970012D706 /* text_font_thumbnail7@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "text_font_thumbnail7@2x.png"; sourceTree = "<group>"; };
+		D95BF7DA190E04970012D706 /* text_font_thumbnail8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = text_font_thumbnail8.png; sourceTree = "<group>"; };
+		D95BF7DB190E04970012D706 /* text_font_thumbnail8@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "text_font_thumbnail8@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,11 +154,18 @@
 		D95BF779190DEB820012D706 /* CustomFont */ = {
 			isa = PBXGroup;
 			children = (
+				D95BF7CB190E04970012D706 /* 字体 */,
+				D95BF7C7190DFE220012D706 /* icon_download_tips@2x.png */,
+				D95BF7C8190DFE220012D706 /* icon_download_tips.png */,
 				D95BF782190DEB820012D706 /* AppDelegate.h */,
 				D95BF783190DEB820012D706 /* AppDelegate.m */,
 				D95BF785190DEB820012D706 /* Main.storyboard */,
 				D95BF788190DEB820012D706 /* ViewController.h */,
 				D95BF789190DEB820012D706 /* ViewController.m */,
+				D95BF7A8190DEBFB0012D706 /* CustomFontView.h */,
+				D95BF7A9190DEBFB0012D706 /* CustomFontView.m */,
+				D95BF7C4190DF54E0012D706 /* FontView.h */,
+				D95BF7C5190DF54E0012D706 /* FontView.m */,
 				D95BF78B190DEB820012D706 /* Images.xcassets */,
 				D95BF77A190DEB820012D706 /* Supporting Files */,
 			);
@@ -150,6 +199,29 @@
 				D95BF79B190DEB820012D706 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		D95BF7CB190E04970012D706 /* 字体 */ = {
+			isa = PBXGroup;
+			children = (
+				D95BF7CC190E04970012D706 /* text_font_thumbnail1.png */,
+				D95BF7CD190E04970012D706 /* text_font_thumbnail1@2x.png */,
+				D95BF7CE190E04970012D706 /* text_font_thumbnail2.png */,
+				D95BF7CF190E04970012D706 /* text_font_thumbnail2@2x.png */,
+				D95BF7D0190E04970012D706 /* text_font_thumbnail3.png */,
+				D95BF7D1190E04970012D706 /* text_font_thumbnail3@2x.png */,
+				D95BF7D2190E04970012D706 /* text_font_thumbnail4.png */,
+				D95BF7D3190E04970012D706 /* text_font_thumbnail4@2x.png */,
+				D95BF7D4190E04970012D706 /* text_font_thumbnail5.png */,
+				D95BF7D5190E04970012D706 /* text_font_thumbnail5@2x.png */,
+				D95BF7D6190E04970012D706 /* text_font_thumbnail6.png */,
+				D95BF7D7190E04970012D706 /* text_font_thumbnail6@2x.png */,
+				D95BF7D8190E04970012D706 /* text_font_thumbnail7.png */,
+				D95BF7D9190E04970012D706 /* text_font_thumbnail7@2x.png */,
+				D95BF7DA190E04970012D706 /* text_font_thumbnail8.png */,
+				D95BF7DB190E04970012D706 /* text_font_thumbnail8@2x.png */,
+			);
+			path = "字体";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -228,8 +300,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D95BF7DD190E04970012D706 /* text_font_thumbnail1@2x.png in Resources */,
+				D95BF7EA190E04970012D706 /* text_font_thumbnail8.png in Resources */,
+				D95BF7E4190E04970012D706 /* text_font_thumbnail5.png in Resources */,
+				D95BF7E5190E04970012D706 /* text_font_thumbnail5@2x.png in Resources */,
+				D95BF7E3190E04970012D706 /* text_font_thumbnail4@2x.png in Resources */,
+				D95BF7DF190E04970012D706 /* text_font_thumbnail2@2x.png in Resources */,
 				D95BF78C190DEB820012D706 /* Images.xcassets in Resources */,
+				D95BF7E1190E04970012D706 /* text_font_thumbnail3@2x.png in Resources */,
+				D95BF7CA190DFE220012D706 /* icon_download_tips.png in Resources */,
+				D95BF7C9190DFE220012D706 /* icon_download_tips@2x.png in Resources */,
+				D95BF7E7190E04970012D706 /* text_font_thumbnail6@2x.png in Resources */,
+				D95BF7E8190E04970012D706 /* text_font_thumbnail7.png in Resources */,
+				D95BF7EB190E04970012D706 /* text_font_thumbnail8@2x.png in Resources */,
 				D95BF77E190DEB820012D706 /* InfoPlist.strings in Resources */,
+				D95BF7E2190E04970012D706 /* text_font_thumbnail4.png in Resources */,
+				D95BF7E0190E04970012D706 /* text_font_thumbnail3.png in Resources */,
+				D95BF7DE190E04970012D706 /* text_font_thumbnail2.png in Resources */,
+				D95BF7E6190E04970012D706 /* text_font_thumbnail6.png in Resources */,
+				D95BF7E9190E04970012D706 /* text_font_thumbnail7@2x.png in Resources */,
+				D95BF7DC190E04970012D706 /* text_font_thumbnail1.png in Resources */,
 				D95BF787190DEB820012D706 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -249,7 +339,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D95BF7AA190DEBFB0012D706 /* CustomFontView.m in Sources */,
 				D95BF78A190DEB820012D706 /* ViewController.m in Sources */,
+				D95BF7C6190DF54E0012D706 /* FontView.m in Sources */,
 				D95BF784190DEB820012D706 /* AppDelegate.m in Sources */,
 				D95BF780190DEB820012D706 /* main.m in Sources */,
 			);
@@ -379,7 +471,9 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CustomFont/CustomFont-Prefix.pch";
 				INFOPLIST_FILE = "CustomFont/CustomFont-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -392,7 +486,9 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "CustomFont/CustomFont-Prefix.pch";
 				INFOPLIST_FILE = "CustomFont/CustomFont-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -456,6 +552,7 @@
 				D95BF7A4190DEB820012D706 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D95BF7A5190DEB820012D706 /* Build configuration list for PBXNativeTarget "CustomFontTests" */ = {
 			isa = XCConfigurationList;
@@ -464,6 +561,7 @@
 				D95BF7A7190DEB820012D706 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
